@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert 0007772 Revert "Fix typo in footer to 2023"
+  bug-fix-typo   174976d Fix typo in footer to 2023
+  main           174976d [origin/main: ahead 1] Fix typo in footer to 2023
